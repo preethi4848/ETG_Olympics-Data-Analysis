@@ -44,14 +44,12 @@ Here are my observations from the three datasets: I'm going to grouped the datas
 1. Summer Olympics
 2. Winter Olympics
 
-I'II merge Summer and dict dataframe to have Summer Olympics Also, I'II merge Winter and dict dataframe to have Winter Olympics.
-
-Looking at the three datasets, I noticed column "Code" from dict dataframe and column "Country" from winter and summer dataframe are kind of similar. Now, Since I want to merge the dataframe, the best approach is to change the column "Country" in Winter nad Summer to "Code" so that i can merge them.
+I have specifically analysed "SUMMER OLYMPICS".
 
 #### CSV File:
 
 1. dictionary.csv - This file contains Country, Code, Population and GDP per Capita. <br>
-2. summer.csv - This file contains all summer olympics games. <br>
+2. summer.csv - This file contains all summer olympics games. (This contains the Summer Olympics Games database) <br>
 3. winter.csv - This file contains all winter olympics games.
 
 -----
