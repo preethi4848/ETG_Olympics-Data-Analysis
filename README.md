@@ -2,7 +2,7 @@
 
 ### By Preethi G
 
-Olympic Games from 1896- 2012. The analysis is carried on Google Colab.
+This is Python for AI/ML Internship 2nd Assignment at Elite Techno Groups. Olympic Games from 1896- 2012. The analysis is carried on Google Colab.
 
 LIBRARY USED : Pandas, Matplotlib, Seaborn, and Numpy
 
